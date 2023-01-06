@@ -3,7 +3,7 @@ from datetime import datetime as dt
 
 
 def main():
-    ''' main function'''
+    ''' main function for testing'''
 
     date, name, speed = intro()
     restr_list = make_list(speed)
